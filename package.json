@@ -29,7 +29,7 @@
     "eslint-config-prettier": "7.2.0",
     "eslint-loader": "2.2.1",
     "eslint-plugin-prettier": "3.4.0",
-    "eslint-plugin-vue": "6.2.2",
+    "eslint-plugin-vue": "7.13.0",
     "gsap": "3.7.0",
     "kouto-swiss": "1.1.0",
     "lodash": "4.17.21",
