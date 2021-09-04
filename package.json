@@ -40,7 +40,7 @@
     "pug-loader": "2.4.0",
     "pug-plain-loader": "1.1.0",
     "randomcolor": "0.6.2",
-    "stylus": "0.54.8",
+    "stylus": "0.55.0",
     "stylus-loader": "3.0.2",
     "stylus-reset": "0.0.1"
   }
