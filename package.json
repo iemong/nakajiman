@@ -25,7 +25,7 @@
     "babel-eslint": "10.1.0",
     "basic-ftp": "4.6.6",
     "dotenv": "8.6.0",
-    "eslint": "6.8.0",
+    "eslint": "7.32.0",
     "eslint-config-prettier": "7.2.0",
     "eslint-loader": "2.2.1",
     "eslint-plugin-prettier": "3.4.1",
