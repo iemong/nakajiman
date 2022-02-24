@@ -68,6 +68,10 @@ module.exports = {
                 hid: 'og:image',
                 name: 'og:image',
                 content: 'kenta-nakajima.com/ogp.png'
+            },
+            {
+                name: 'color-scheme',
+                content: 'only light'
             }
         ],
         link: [
