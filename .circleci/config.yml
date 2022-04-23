@@ -2,7 +2,7 @@ version: 2
 jobs:
     build:
         docker:
-            - image: circleci/node:14.17
+            - image: circleci/node:14.18
         working_directory: ~/repo
 
         steps:
@@ -24,7 +24,7 @@ jobs:
             - run: yarn generate
     deploy:
         docker:
-            - image: circleci/node:14.17
+            - image: circleci/node:14.18
         working_directory: ~/repo
 
         steps:
