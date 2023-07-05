@@ -22,7 +22,7 @@
   "devDependencies": {
     "@nuxtjs/style-resources": "1.2.1",
     "axios": "0.22.0",
-    "babel-eslint": "10.1.0",
+    "@babel/eslint-parser": "7.11.0",
     "basic-ftp": "4.6.6",
     "dotenv": "8.6.0",
     "eslint": "6.8.0",
