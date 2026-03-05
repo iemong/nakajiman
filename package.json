@@ -20,7 +20,7 @@
     "nuxt": "2.15.8"
   },
   "devDependencies": {
-    "@nuxtjs/style-resources": "1.2.1",
+    "@nuxtjs/style-resources": "1.2.2",
     "axios": "0.22.0",
     "babel-eslint": "10.1.0",
     "basic-ftp": "4.6.6",
